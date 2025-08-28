@@ -18,7 +18,7 @@ n8n
 Jika install di local maka akan muncul link http://localhost:5678 atau http://(IP-VPS):5678 jika di vps
 
 Contoh Workflow
-[Image 1](https://raw.githubusercontent.com/asamarsal/dumbways-week-3/main/image/1.PNG)
+https://raw.githubusercontent.com/asamarsal/dumbways-week-3/main/image/1.PNG
 
 Contoh Webhook
-[Image 2](https://raw.githubusercontent.com/asamarsal/dumbways-week-3/main/image/2.PNG)
+https://raw.githubusercontent.com/asamarsal/dumbways-week-3/main/image/2.PNG
